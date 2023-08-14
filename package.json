@@ -1,6 +1,6 @@
 {
   "name": "@borisshulyak/eslint-config-base",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ESLint configuration for Node.js/Vanilla JS apps.",
   "main": "index.js",
   "scripts": {
