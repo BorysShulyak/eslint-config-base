@@ -1,4 +1,4 @@
-# Contributing to Strapi Plugin Field Formula
+# Contributing to `eslint-config-base`
 Thank you for taking an interest in contributing! We appreciate you! 🫶🏽
 
 Below are the guidelines on how to help in the best possible way.
@@ -17,7 +17,7 @@ problem with the least possible code explaining and demonstrating the error.
 Without enough information to reproduce the issue, we will close it because we can't recreate and solve it.
 
 Make sure the appropriate labels are added Read more information about 
-[issue and pull request labels](https://github.com/BorysShulyak/strapi-plugin-field-formula/blob/main/documentation/LABELS.md)
+[issue and pull request labels](https://github.com/BorysShulyak/eslint-config-base/blob/main/documentation/LABELS.md)
 
 ## Submitting a Pull Request (PR)
 ### Branch Organization
@@ -33,7 +33,7 @@ your effort.
 
 ### Sending a Pull Request
 Before submitting a pull request, consider `MR checklist` is fully resolved. You could find it in the PR template. For
-more information you could read the [CODE_REVIEW document](https://github.com/BorysShulyak/strapi-plugin-field-formula/blob/main/documentation/CODE_REVIEW.md).
+more information you could read the [CODE_REVIEW document](https://github.com/BorysShulyak/eslint-config-base/blob/main/documentation/CODE_REVIEW.md).
 
 ## Local development
 Clone repository:
@@ -49,21 +49,6 @@ If you want to open a PRs you could fork the repository. For more information re
 Install dependencies:
 ```shell
 yarn
-```
-
-Run linters:
-```shell
-yarn run lint
-```
-
-Run linters with autofix:
-```shell
-yarn run lint-fix
-```
-
-Run tests:
-```shell
-yarn run test
 ```
 
 Run commit:
