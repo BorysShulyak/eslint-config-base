@@ -38,7 +38,7 @@ more information you could read the [CODE_REVIEW document](https://github.com/Bo
 ## Local development
 Clone repository:
 ```shell
-git clone git@github.com:BorysShulyak/strapi-plugin-field-formula.git
+git clone git@github.com:BorysShulyak/eslint-config-base.git
 ```
 
 If you want to open a PRs you could fork the repository. For more information read the following docs: 
